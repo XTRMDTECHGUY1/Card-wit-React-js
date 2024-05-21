@@ -1,0 +1,70 @@
+body{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+
+.cards{
+  background: white;
+  width: 250px;
+  height: 320px;
+  border-radius: 15px;
+  filter: drop-shadow(2px 15px 12px rgba(0, 0, 0, 0.363));
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+
+}
+.txt{
+ font-size: 15px;
+ font-weight: bold;
+ color: rgb(120, 30, 172);
+}
+
+
+Col{
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+
+.img{
+  width: 253px;
+  height: 158px;
+
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  
+}
+
+.social{
+   width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  font-size: 10px;
+  color: red;
+  opacity: 70%;
+  text-align: center;
+}
+
+
+.sociall{
+  width: 20px;
+ height: 20px;
+ border-radius: 10px;
+ font-size: 10px;
+ color: rgb(12, 6, 102);
+ opacity: 70%;
+ text-align: center;
+}
+
+.socialy{
+  width: 20px;
+ height: 20px;
+ border-radius: 10px;
+ font-size: 10px;
+ color: rgb(235, 176, 14);
+ opacity: 70%;
+ text-align: center;
+}
